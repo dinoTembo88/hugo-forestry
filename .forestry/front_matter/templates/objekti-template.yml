@@ -1,0 +1,19 @@
+---
+hide_body: false
+fields:
+- type: text
+  default: Kuća W28
+  name: title
+  label: Title
+  description: Objekt naziv
+- type: field_group_list
+  name: smjestajne_jednice
+  label: Smještajne jednice
+  fields:
+  - type: text
+    default: Naziv
+    label: Naziv
+    name: naziv
+  - type: textarea
+    name: opis
+    label: Opis
