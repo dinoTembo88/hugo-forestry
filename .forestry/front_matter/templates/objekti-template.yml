@@ -1,4 +1,6 @@
 ---
+pages:
+- posts/ku-a-w28.md
 hide_body: false
 fields:
 - type: text
